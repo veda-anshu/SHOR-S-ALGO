@@ -1,0 +1,28 @@
+{
+  "backend": "FakeTorino",
+  "t": 3,
+  "shots": 8192,
+  "seed_transpiler": 9,
+  "isa_stats": {
+    "num_qubits_declared": 133,
+    "depth": 222,
+    "two_qubit_gates": 76,
+    "ops": {
+      "sx": 147,
+      "rz": 110,
+      "cz": 76,
+      "x": 7,
+      "measure": 3
+    }
+  },
+  "counts": {
+    "001": 48,
+    "101": 39,
+    "011": 44,
+    "111": 32,
+    "100": 2061,
+    "000": 2141,
+    "010": 1897,
+    "110": 1930
+  }
+}

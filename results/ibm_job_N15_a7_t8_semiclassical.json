@@ -1,0 +1,26 @@
+{
+  "backend": "ibm_kingston",
+  "job_id": "dbipg9g1h92s738401e0",
+  "N": 15,
+  "a": 7,
+  "t": 8,
+  "mode": "semiclassical",
+  "shots": 4096,
+  "seed_transpiler": 0,
+  "dd": false,
+  "twirl": false,
+  "isa_stats": {
+    "num_qubits_declared": 156,
+    "depth": 13924,
+    "two_qubit_gates": 6401,
+    "ops": {
+      "sx": 13234,
+      "rz": 7163,
+      "cz": 6401,
+      "x": 146,
+      "if_else": 28,
+      "measure": 8,
+      "reset": 7
+    }
+  }
+}
